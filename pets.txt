@@ -7,3 +7,4 @@ Ripley
 Capt. Kirk
 Morris
 Smokey
+Spike
